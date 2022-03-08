@@ -1,0 +1,11 @@
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+#email {
+    height: 30px;
+    width: 100%;
+    border-radius: 30px;
+    border: 3px solid ;
+}
