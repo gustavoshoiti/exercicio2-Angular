@@ -3,12 +3,11 @@ form{
     width: 350px;
     padding: 40px;
     margin-top: 10px;
-    border: solid 4px black;
-    border-radius: 40px;
+    border: solid 4px purple;
+    border-radius: 30px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    backdrop-filter: blur(10px);
 }
 
 .titulo{
